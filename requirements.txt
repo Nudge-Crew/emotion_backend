@@ -1,0 +1,4 @@
+google-cloud-language
+requests
+flask_sqlalchemy
+psycopg2
